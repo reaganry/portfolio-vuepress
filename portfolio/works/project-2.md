@@ -1,15 +1,15 @@
 ---
-title: Project two
+title: Games
 date: 2018-08-09 18:05:37 +0000
-thumbnail: "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
+thumbnail: "/upload/xbox-283116_1280.jpg"
 year: 2016
-description: subtitle
+description: games
 categories:
 - print
 
 ---
-# Project two
+# Games
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Games are the next 'Television'. Which, thanks to Netflix, was the next 'Film'. Which was the next 'Theater'. Compelling Narrative Experiences. entertainment. mindless compulsive skinner box time fillers.
 
 ![](/upload/photo-1516906736502-5d3fedc3019a.jpeg)
