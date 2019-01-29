@@ -10,12 +10,6 @@ description: listen. you can hear. noise? yes. also patterns. frequencies. relat
 ---
 # Sounds
 
-Sounds reach your ears. Some are words. Some are not. Frequencies exist.
-
-![](/upload/photo-1504198322253-cfa87a0ff25f.jpeg)
-
-\[This is a cool link\] ([http://www.soundcloud.com](http://www.soundcloud.com/reaganry/ "Reagan's Soundcloud"))
-
-##Music is Alive
+### Sounds reach your ears. Some are words. Some are not. Frequencies exist.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/14816258&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
