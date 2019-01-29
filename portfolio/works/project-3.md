@@ -14,4 +14,4 @@ Sounds reach your ears. Some are words. Some are not. Frequencies exist.
 
 ![](/upload/photo-1504198322253-cfa87a0ff25f.jpeg)
 
-\[This is a cool link\] ([http://www.soundcloud.com]())
+\[This is a cool link\] ([http://www.soundcloud.com](http://www.soundcloud.com))
