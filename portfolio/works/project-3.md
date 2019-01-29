@@ -13,3 +13,5 @@ description: listen. you can hear. noise? yes. also patterns. frequencies. relat
 Sounds reach your ears. Some are words. Some are not. Frequencies exist.
 
 ![](/upload/photo-1504198322253-cfa87a0ff25f.jpeg)
+
+\[This is a cool link\] (www.soundcloud.com)
