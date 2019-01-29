@@ -14,5 +14,17 @@ fields:
     wysiwyg: true
     schema:
       format: html
+  default: This is called Hero Text.
+- type: color
+  config:
+    color_format: Hex
+  default: "#B8B938"
+- type: color
+  name: pick_a_color
+  config:
+    color_format: RGB
+  label: Pick a Color
+  description: color
+  default: rgb(36, 224, 165)
 pages:
 - portfolio/index.md
