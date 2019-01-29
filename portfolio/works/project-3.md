@@ -1,11 +1,11 @@
 ---
-title: Project three
+title: Sounds
 date: 2017-02-04 00:00:00 +0000
-thumbnail: "/upload/photo-1504198322253-cfa87a0ff25f.jpeg"
-year: 2017
+thumbnail: "/upload/piano.jpg"
+year: 2019
 categories:
 - print
-description: subtitle
+description: listen. you can hear. noise? yes. also patterns. frequencies. relationship.
 
 ---
 # Sounds
