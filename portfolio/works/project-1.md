@@ -5,7 +5,7 @@ thumbnail: "/upload/jbrone.png"
 year: 2018
 categories:
 - print
-description: subtitle
+description: JBR one
 
 ---
 # Images
