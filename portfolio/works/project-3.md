@@ -14,6 +14,6 @@ Sounds reach your ears. Some are words. Some are not. Frequencies exist.
 
 ![](/upload/photo-1504198322253-cfa87a0ff25f.jpeg)
 
-\[This is a cool link\] ([http://www.soundcloud.com](http://www.soundcloud.com))
+\[This is a cool link\] ([http://www.soundcloud.com](http://www.soundcloud.com/reaganry/ "Reagan's Soundcloud"))
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="[https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/554088825&amp;color=ff5500&amp;show_user=false](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/554088825&amp;color=ff5500&amp;show_user=false "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/554088825&amp;color=ff5500&amp;show_user=false")"></iframe>
+\##Music is Alive
