@@ -12,4 +12,4 @@ description: JBR one
 
 Images are imaginary. Images compel attention. Images tell stories. Images are snapshots. I choose Canon and a 50mm lens.
 
-<a data-flickr-embed="true"  href="[https://www.flickr.com/photos/reaganr/albums/72157635630357044](https://www.flickr.com/photos/reaganr/albums/72157635630357044 "https://www.flickr.com/photos/reaganr/albums/72157635630357044")/show
+<a data-flickr-embed="true" data-context="true"  href="[https://www.flickr.com/photos/reaganr/9807965285/in/album-72157635630357044/](https://www.flickr.com/photos/reaganr/9807965285/in/album-72157635630357044/ "https://www.flickr.com/photos/reaganr/9807965285/in/album-72157635630357044/")" title="denver-4260"><img src="![](https://farm4.staticflickr.com/3708/9807965285_3d01f5f115_z.jpg)" width="640" height="427" alt="denver-4260"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
